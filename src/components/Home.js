@@ -6,7 +6,7 @@ const Home = () => {
 
   return (
     <div className='container'>
-        <h1>Welcome <span style={{color: 'red'}}>{location.state.name}</span> to Home page </h1>
+        <h1>Welcome <span style={{color: 'red'}}>{location.state.name}</span> to Home page(Dashboard) </h1>
     </div>
   )
 }
